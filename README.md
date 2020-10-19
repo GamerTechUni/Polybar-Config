@@ -1,2 +1,18 @@
 # Polybar-Config
-This is my Polybar config.
+This is my Polybar config 
+
+Instructions:
+
+Open the terminal, then type:
+git clone https://github.com/GamerTechUni/Polybar-Config.git && cd Polybar-Config
+
+If you don't have a bspwm folder in your .config home folder, then type in the terminal
+mv polybar ~/.config
+
+If you already have a bspwm folder, type
+
+cd polybar
+
+mv config ~/.config/polybar
+
+mv launch.sh ~/.config/polybar
